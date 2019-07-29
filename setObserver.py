@@ -25,7 +25,7 @@ class DirWatch:
         self.dirwatch_dir = dirwatch_dir
         self.options = self.Options()
         self.tmpwatch = self.Tmpwatch()
-        self.scenarios = []aa
+        self.scenarios = []aaaa
         self.observer = Observer()
         self.config_file = config_file
 
